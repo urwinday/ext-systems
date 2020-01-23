@@ -6,8 +6,11 @@ out
 ######################
 .idea/
 *.iml
+<<<<<<< HEAD
 *.iws
 *.ipr
 *.ids
 *.orig
 classes/
+=======
+>>>>>>> master

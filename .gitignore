@@ -1,4 +1,13 @@
 target
 out
+
+######################
+# Intellij
+######################
 .idea/
-.iml
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
